@@ -5,4 +5,4 @@
 
 ## Todas os requisitos da atividade feitos no dia 06/09/2021.
 ### O arquivo evidenciando a atividade é o PDF atividade02.pdf
-[Link do JPG](https://github.com/Yuri-Santiago/yuri-santiago-p8-info-sor2/blob/main/atividades-presenca/presenca02/atividade02.pdf)
+[Link do PDF](https://github.com/Yuri-Santiago/yuri-santiago-p8-info-sor2/blob/main/atividades-presenca/presenca02/atividade02.pdf)
